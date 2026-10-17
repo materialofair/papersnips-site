@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 210 297" role="img" aria-labelledby="title description">
+  <title id="title">A4 photo-size planning sheet by PaperSnips</title>
+  <desc id="description">An independently designed, free A4 planning reference with four blank frames: 2 by 2 inches, 2 by 3 inches, 3 by 4 inches, and 40 by 60 millimetres. Print at 100 percent or Actual Size on A4, then check the 50 millimetre calibration line and both dimensions of each frame with a ruler. Frame sizes are measured between outline centres. This is not an app export or a physical print test and can be used without PaperSnips.</desc>
+  <style>
+    text { font-family: Arial, Helvetica, sans-serif; fill: #28362d; }
+    .eyebrow { font-size: 2.8px; font-weight: 700; letter-spacing: .42px; }
+    .heading { font-size: 7.5px; font-weight: 700; letter-spacing: -.23px; }
+    .body { font-size: 3.25px; }
+    .size { font-size: 4.6px; font-weight: 700; }
+    .metric { font-size: 3px; fill: #4d5a50; }
+    .small { font-size: 2.8px; fill: #4d5a50; }
+    .frame { fill: none; stroke: #536359; stroke-width: .3; }
+    .rule { fill: none; stroke: #536359; stroke-width: .3; }
+    a text { text-decoration: underline; }
+  </style>
+  <g id="sheet-header">
+    <text x="16" y="18" class="eyebrow">PAPERSNIPS / FREE PRINTABLE</text>
+    <text x="16" y="31" class="heading">A4 photo-size planning sheet</text>
+    <text x="16" y="39" class="body">Plan small prints for journals, scrapbooks &amp; memory pages.</text>
+    <text x="16" y="47" class="body">A4 paper · 100% / Actual Size · Turn off “Fit to page”</text>
+  </g>
+  <g id="square-photo">
+    <text x="16" y="56" class="size">2 × 2 in</text>
+    <text x="16" y="61" class="metric">50.8 × 50.8 mm</text>
+    <rect id="frame-2x2" class="frame" x="16" y="65" width="50.8" height="50.8"/>
+  </g>
+  <g id="small-portrait-photo">
+    <text x="104" y="56" class="size">2 × 3 in</text>
+    <text x="104" y="61" class="metric">50.8 × 76.2 mm</text>
+    <rect id="frame-2x3" class="frame" x="104" y="65" width="50.8" height="76.2"/>
+  </g>
+  <g id="planning-tip">
+    <text x="16" y="127" class="small">After checking the scale, cut out a frame</text>
+    <text x="16" y="132" class="small">to try it on your journal page. Rotate it</text>
+    <text x="16" y="137" class="small">to plan a landscape photo.</text>
+  </g>
+  <g id="large-portrait-photo">
+    <text x="16" y="148" class="size">3 × 4 in</text>
+    <text x="16" y="153" class="metric">76.2 × 101.6 mm</text>
+    <rect id="frame-3x4" class="frame" x="16" y="157" width="76.2" height="101.6"/>
+  </g>
+  <g id="metric-photo">
+    <text x="104" y="148" class="size">40 × 60 mm</text>
+    <text x="104" y="153" class="metric">4 × 6 cm</text>
+    <rect id="frame-40x60" class="frame" x="104" y="157" width="40" height="60"/>
+  </g>
+  <g id="scale-check">
+    <text x="104" y="226" class="eyebrow">CHECK BEFORE CUTTING</text>
+    <line id="calibration-50mm" class="rule" x1="104" y1="234" x2="154" y2="234"/>
+    <path class="rule" d="M104 231.5v5 M154 231.5v5"/>
+    <text x="104" y="241" class="small">0</text>
+    <text x="154" y="241" class="small" text-anchor="end">50 mm</text>
+    <text x="104" y="248" class="small">Measure this line and both frame sides.</text>
+    <text x="104" y="253" class="small">Measure between outline centres.</text>
+    <text x="104" y="258" class="small">If sizes differ, check the print settings.</text>
+  </g>
+  <g id="sheet-footer">
+    <path d="M16 266H194" fill="none" stroke="#aab2ab" stroke-width=".2"/>
+    <text x="16" y="272" class="small">Independent size-planning reference. Not an app export or a physical print test.</text>
+    <text x="16" y="277" class="small">Use with any layout tool. Printer scaling and margins may change the printed result.</text>
+    <a href="https://materialofair.github.io/papersnips-site/"><text x="16" y="284" class="small">materialofair.github.io/papersnips-site/</text></a>
+    <a href="https://apps.apple.com/app/id6819201831"><text x="104" y="284" class="small">App Store: apps.apple.com/app/id6819201831</text></a>
+  </g>
+</svg>
