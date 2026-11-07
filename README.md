@@ -1,8 +1,18 @@
 # PaperSnips: Photo Print Layout
 
-PaperSnips is an iPhone and iPad app for arranging small photos on printable pages for journals, scrapbooks, planners and memory books. Its App Store ID is **6819201831**.
+PaperSnips is an iPhone, iPad and native Mac app for arranging small photos on printable pages for journals, scrapbooks, planners and memory books. Its App Store ID is **6819201831**.
 
 [Official website](https://papersnips.siproducers.com/) · [Download on the App Store](https://apps.apple.com/app/id6819201831) · [Support](https://papersnips.siproducers.com/support.html) · [Privacy policy](https://papersnips.siproducers.com/privacy.html)
+
+## Native Mac app is available
+
+[Mac features and download](https://papersnips.siproducers.com/mac) · [Mac App Store](https://apps.apple.com/us/app/papersnips-photo-print-layout/id6819201831?platform=mac) · [Mac 中文说明](https://papersnips.siproducers.com/zh/mac)
+
+Import images from Finder or drag them into the native workspace. Keep the preview beside layout controls, set photo sizes in mm or cm, and save all-page PDF or current-page 300 dpi JPEG. Use the toolbar or Command-P to open macOS system printing. Match the paper and Actual Size / 100%, then measure a test print.
+
+Mac uses the existing optional one-time PaperSnips Pro product. Projects autosave locally and **do not sync automatically between devices**. Restore Purchases restores eligible purchase entitlement, not local projects.
+
+The public iOS release is still 1.1 at the 7 November 2026 check. Upcoming iPhone/iPad 1.2+ photo-and-text projects and Max allowances are not features of the released Mac 1.0 app. See the [version-scoped guide](https://papersnips.siproducers.com/photos-and-notes-to-pdf-iphone).
 
 ## Print several photos on one page
 
@@ -24,9 +34,11 @@ Optional **one-time Pro**, with no subscription, unlocks exports for additional 
 
 Projects save locally, with renaming, copies, Undo/Redo and recovery of recently deleted projects. Photo processing takes place on the device. No PaperSnips account, photo upload, advertising or analytics service is required.
 
-Requires **iOS/iPadOS 17 or later**. The app interface is available in **English and Simplified Chinese**.
+Requires **iOS/iPadOS 17 or later**, or **macOS 14 or later** for the native Mac app. The app interface is available in **English and Simplified Chinese**.
 
 ## 中文
+
+**原生 Mac 1.0 已上线**，需 macOS 14 及以上。支持 Finder 导入／拖放、照片尺寸排版、PDF／JPEG 导出及 Command-P 系统打印。项目保存在本机，不会自动跨设备同步。免费打印项目额度与可选一次性 Pro 说明见下方；iPhone／iPad 图文项目预告不表示当前 Mac 版已支持。
 
 PaperSnips 用于把多张小照片排到 A4 或其他尺寸纸张上，适合手帐、剪贴簿、计划本和回忆册。可按毫米/厘米设置照片框，调整页边距和间距，混排不同尺寸；页面满后自动增加新页，不会悄悄缩小照片。
 
@@ -36,6 +48,6 @@ PaperSnips 用于把多张小照片排到 A4 或其他尺寸纸张上，适合�
 
 ## About this repository
 
-This repository contains the official website, support and privacy pages, not the application's private source code. Its GitHub Pages custom domain is `papersnips.siproducers.com`.
+This repository contains the official website, support and privacy pages, not the application's private source code. The current official website is hosted at https://papersnips.siproducers.com/. This repository also preserves the earlier GitHub Pages entry point.
 
-Product facts checked against the [public App Store listing](https://apps.apple.com/us/app/papersnips-photo-print-layout/id6819201831) and the support page on 2026-11-07. Current app version at that check: **1.1**.
+Product facts checked against the [public App Store listing](https://apps.apple.com/us/app/papersnips-photo-print-layout/id6819201831) and the support page on 2026-11-07. Current platform releases at that check: **iOS 1.1** and **native Mac 1.0**. The Mac version was independently checked as Ready for Distribution, build 23.
